@@ -1,5 +1,5 @@
 # RainbowSix
-Hackathon project
+Hackathon third place project
 
 Dependencies: node.js, express.  
 Needed for setup: npm install express.  
